@@ -1,11 +1,11 @@
-site_name: OpenVSLAM Visual SLAM Framework Documentation
-site_description: Technical documentation for OpenVSLAM: visual simultaneous localization and mapping, camera tracking models, and spatial robotics telemetry.
+site_name: "OpenVSLAM Visual SLAM Framework Documentation"
+site_description: "Technical documentation for OpenVSLAM: visual simultaneous localization and mapping, camera tracking models, and spatial robotics telemetry."
 site_url: https://openvslam.readthedocs.io/
 theme:
   name: readthedocs
 
 nav:
-  - OpenVSLAM Architecture & Overview: index.md
-  - Camera Models & Calibration: camera-models.md
-  - Robotics Telemetry & Public Dispatches: robotics-telemetry-and-dispatches.md
-  - Troubleshooting & FAQ: troubleshooting.md
+  - "OpenVSLAM Architecture & Overview": index.md
+  - "Camera Models & Calibration": camera-models.md
+  - "Robotics Telemetry & Public Dispatches": robotics-telemetry-and-dispatches.md
+  - "Troubleshooting & FAQ": troubleshooting.md
